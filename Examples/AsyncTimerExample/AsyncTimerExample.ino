@@ -51,13 +51,13 @@ void loop() {
   }
   
   if(counter == 5) {
-	if(timer1.getInterval() == 500) {
-	  timer1.setInterval(1000);
-	} else {
-	  timer1.setInterval(500);
-	}
-	Serial.println(timer1.getInterval());
-	counter = 0;
+    if(timer1.getInterval() == 500) {
+      timer1.setInterval(1000);
+    } else {
+      timer1.setInterval(500);
+    }
+    Serial.println(timer1.getInterval());
+    counter = 0;
   }
 
 }
