@@ -1,0 +1,5 @@
+AsyncTimer	KEYWORD1
+setInterval	KEYWORD2
+getInterval	KEYWORD2
+expired		KEYWORD2
+reset		KEYWORD2
