@@ -1,5 +1,7 @@
 AsyncTimer	KEYWORD1
 setInterval	KEYWORD2
 getInterval	KEYWORD2
+setPayload	KEYWORD2
+getPayload	KEYWORD2
 expired		KEYWORD2
 reset		KEYWORD2
